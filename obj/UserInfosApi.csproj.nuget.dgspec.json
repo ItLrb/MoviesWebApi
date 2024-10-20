@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {}
+    "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {
+    "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
+        "projectUniqueName": "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
         "projectName": "UserInfosApi",
-        "projectPath": "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
+        "projectPath": "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\obj\\",
+        "outputPath": "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
