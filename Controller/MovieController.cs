@@ -29,7 +29,7 @@ public class MovieController : ControllerBase
     public ActionResult Get(int id)
     {
         var movie = _movieRepository.GetMovieById(id);
-        if (movie == null) return NotFound();
+        if (movie is null) return NotFound();
         
         return Ok(movie);
     }
