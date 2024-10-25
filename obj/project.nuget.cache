@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BQnVJNGqomo=",
+  "dgSpecHash": "5RImJEh1CsI=",
   "success": true,
-  "projectFilePath": "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
+  "projectFilePath": "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\italo\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
     "C:\\Users\\italo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

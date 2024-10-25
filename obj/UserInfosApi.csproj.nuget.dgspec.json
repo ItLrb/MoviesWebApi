@@ -1,18 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {}
+    "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {
+    "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
+        "projectUniqueName": "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
         "projectName": "UserInfosApi",
-        "projectPath": "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
+        "projectPath": "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\UserInfosApi.csproj",
         "packagesPath": "C:\\Users\\italo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\italo\\RiderProjects\\UserInfosApi\\obj\\",
+        "outputPath": "C:\\Users\\italo\\RiderProjects\\UserInfosApi\\obj\\",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "C:\\Users\\italo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
