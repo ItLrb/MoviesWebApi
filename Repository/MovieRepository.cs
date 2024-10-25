@@ -40,7 +40,7 @@ public class MovieRepository
     {
         using (IDbConnection dbConnection = Connection)
         {
-            string query = "INSERT INTO movies (Nome, Email, Role) VALUES (@Nome, @Email, @Role)";
+            string query = "INSERT INTO movies (Title, Description, Category) VALUES (@Title, @Description, @Category)";
             dbConnection.Open();
             dbConnection.Execute(query, movie);
         }
@@ -50,7 +50,7 @@ public class MovieRepository
     {
         using (IDbConnection dbConnection = Connection)
         {
-            string query = "UPDATE movies SET Nome = @Nome, Email = @Email, Role = @Role WHERE Id = @Id";
+            string query = "UPDATE movies SET Title = @Title, Description = @Description, Category = @Category WHERE Id = @Id";
             dbConnection.Open();
             dbConnection.Execute(query, movie);
         }
