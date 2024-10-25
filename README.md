@@ -7,7 +7,6 @@ Uma web API sobre Filmes
 Uma API onde você pode cadastrar filmes e usuários, toda a aplicação foi criada utilizando <br>
 -> **.Net** <- juntamente com -> **Dapper** <- como ORM
 
-🚧 No momento apenas tem a aplicação para a manipulação dos usuários, mas já irei trabalhar nos filmes 🚧
 
 ------------------------
 
